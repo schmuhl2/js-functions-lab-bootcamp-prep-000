@@ -1,5 +1,4 @@
 // write your code below!
-<<<<<<< HEAD
 function happyHolidays(string) {
   return "Happy holidays!"
 }
